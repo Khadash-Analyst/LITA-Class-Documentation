@@ -17,4 +17,7 @@ The primary source of data used here is Data Sales.csv and this is an open sourc
 - GitHub for Portfolio Building
 
   Data Cleaning And Preparation
-  The initial phase of the data cleaning and preparation, we performed the following actions;
+  At initial phase of the data cleaning and preparation, we performed the following actions;
+  1. Data loading and inspection
+  2. Handling Missing variables
+  3. Data cleaning and formatting
