@@ -26,4 +26,6 @@ The primary source of data used here is Data Sales.csv and this is an open sourc
 EDA involves exploring of the data to answer some questions about the Data such as;
 - What is the overall sales trend?
 - Which products are top sellers?
-- What ar the products on the peak sales?
+- What are the products on the peak sales?
+
+### Data Analysis
